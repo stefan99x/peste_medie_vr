@@ -1,0 +1,5 @@
+Library/Artifacts/
+Library/
+Temp/
+/Assets/*.meta
+*.meta
